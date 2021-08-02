@@ -11,6 +11,12 @@
 
 let allMusic = [
   {
+    name: "Senandung Ukhuwah",
+    artist: "Sigma",
+    img: "ShoutulHarokah-PalestinaTercinta",
+    src: "Sigma-SenandungUkhuwah"
+  },
+  {
     name: "Palestine Will Be Free",
     artist: "Maher Zain",
     img: "MaherZain-PalestineWillBeFree",
@@ -28,18 +34,18 @@ let allMusic = [
     img: "ShoutulHarokah-PalestinaTercinta",
     src: "ShoutulHarokah-PalestinaTercinta"
   },
-  // {
-  //   name: "Hardwind - Want Me",
-  //   artist: "Mike Archangelo",
-  //   img: "music-4",
-  //   src: "music-4"
-  // },
-  // {
-  //   name: "Jim - Sun Goes Down",
-  //   artist: "Jim Yosef x Roy",
-  //   img: "music-5",
-  //   src: "music-5"
-  // },
+  {
+    name: "Sebiru Hari Ini",
+    artist: "Edcoustic",
+    img: "ShoutulHarokah-PalestinaTercinta",
+    src: "Edcoustic-SebiruHariIni"
+  },
+  {
+    name: "Sepotong Episode Masa lalu",
+    artist: "Edcoustic",
+    img: "ShoutulHarokah-PalestinaTercinta",
+    src: "Edcoustic-SepotongEpisodeMasalalu"
+  },
   // {
   //   name: "Lost Sky - Vision NCS",
   //   artist: "NCS Release",
