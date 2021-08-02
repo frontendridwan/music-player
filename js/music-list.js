@@ -17,6 +17,18 @@ let allMusic = [
     src: "Sigma-SenandungUkhuwah"
   },
   {
+    name: "Sebiru Hari Ini",
+    artist: "Edcoustic",
+    img: "ShoutulHarokah-PalestinaTercinta",
+    src: "Edcoustic-SebiruHariIni"
+  },
+  {
+    name: "Sepotong Episode Masa lalu",
+    artist: "Edcoustic",
+    img: "ShoutulHarokah-PalestinaTercinta",
+    src: "Edcoustic-SepotongEpisodeMasalalu"
+  },
+  {
     name: "Palestine Will Be Free",
     artist: "Maher Zain",
     img: "MaherZain-PalestineWillBeFree",
@@ -33,18 +45,6 @@ let allMusic = [
     artist: "Shoutul Harokah",
     img: "ShoutulHarokah-PalestinaTercinta",
     src: "ShoutulHarokah-PalestinaTercinta"
-  },
-  {
-    name: "Sebiru Hari Ini",
-    artist: "Edcoustic",
-    img: "ShoutulHarokah-PalestinaTercinta",
-    src: "Edcoustic-SebiruHariIni"
-  },
-  {
-    name: "Sepotong Episode Masa lalu",
-    artist: "Edcoustic",
-    img: "ShoutulHarokah-PalestinaTercinta",
-    src: "Edcoustic-SepotongEpisodeMasalalu"
   },
   // {
   //   name: "Lost Sky - Vision NCS",
